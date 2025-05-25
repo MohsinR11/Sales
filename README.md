@@ -38,14 +38,13 @@ To include a screenshot of the scatter plot:
 Run the notebook and save the scatter plot as an image (e.g., quantity_vs_profit.png).  
 Create a screenshots folder in the repository root.  
 Upload the image to the screenshots folder.  
-Add the image to the README:  ![Quantity vs Profit Scatter Plot](screenshots/quantity_vs_profit.png)
-
-
-
-Alternative: Use a Publicly Hosted Image LinkIf you prefer to host the image externally (e.g., on Imgur, Google Drive, etc.), use a direct URL:  
-![Quantity vs Profit Scatter Plot](https://example.com/screenshots/quantity_vs_profit.png)
-
-Replace https://example.com/screenshots/quantity_vs_profit.png with the actual URL of your hosted image. Ensure the link is public and points directly to the image file (not a webpage).
+Add the image to the README:  
+![image](https://github.com/user-attachments/assets/92e8fb59-a182-4e5b-8aac-729f0153e4bf)
+![image](https://github.com/user-attachments/assets/f8ec429a-a17d-4a1b-995f-be3f065dc6df)
+![image](https://github.com/user-attachments/assets/75392c39-53a2-4875-87fe-0f6abfb324a7)
+![image](https://github.com/user-attachments/assets/e4f55d06-0dc5-4388-aa11-b30adc290c8d)
+![image](https://github.com/user-attachments/assets/f1f194d6-8beb-4fe4-9f47-5074592d976f)
+![image](https://github.com/user-attachments/assets/b62cafe5-9384-4193-b76c-011f47a3b726)
 
 
 ### 🧩 Dataset Details
