@@ -1,10 +1,13 @@
 ## 📊 AI-Powered Portfolio Project 🚀
 
+---
+---
 
 ### 🌟 Overview
 
 Welcome to the AI-Powered Portfolio Project! 📓 This Jupyter Notebook project provides a detailed analysis of sales data, focusing on metrics like Revenue, Profit, and Quantity across dimensions such as Product, Category, Region, and Date. The analysis includes data preprocessing, feature engineering, and visualizations, offering insights into sales trends for 58 records. 📈
 
+---
 
 ### 🔑 Key Metrics
 
@@ -13,21 +16,13 @@ Welcome to the AI-Powered Portfolio Project! 📓 This Jupyter Notebook project 
 - 📊 Average Profit: $190.04 (Range: $9.37–$458.08)  
 - 📅 Date Range: 2022-01-02 to 2024-12-12
 
+---
 
 ### 🛠️ Project Features
 
 The project is designed to help data analysts explore sales data with ease. Use the Jupyter Notebook to dive into the analysis and uncover trends in sales performance and patterns! 🔍
 
-
-### 📊 Visualizations
-
-#### Quantity vs Profit Scatter Plot 📉
-
-- A scatter plot showing the relationship between Quantity and Profit.  
-- 📈 Trend: Identifies whether higher quantities sold correlate with higher profits.  
-- X-Axis: Quantity sold (1 to 9).  
-- Y-Axis: Profit earned ($9.37 to $458.08).
-
+---
 
 ### 🎨 Screenshots
 
@@ -52,7 +47,7 @@ Add the image to the README:
 
 ![image](https://github.com/user-attachments/assets/b62cafe5-9384-4193-b76c-011f47a3b726)
 
-
+---
 
 ### 🧩 Dataset Details
 
@@ -70,6 +65,7 @@ The dataset (sales.csv) contains the following columns:
 
 Data Quality Insight: No missing values or duplicates were found in the dataset. ✅
 
+---
 
 ### 🚀 Usage
 
@@ -78,36 +74,38 @@ Data Quality Insight: No missing values or duplicates were found in the dataset.
 - Interact: Explore the scatter plot to understand relationships between metrics like Quantity and Profit. 🖱️  
 - Customize: Modify the code to explore other metrics or create new visualizations. 🔧
 
+---
 
 ### ⚙️ Requirements
 
 - Jupyter Notebook or JupyterLab to run the analysis.  
 - The dataset (sales.csv) is preloaded in the repository. To replicate, ensure your environment includes:  
 
+---
+
 #### Python 3.12+  
 
 Libraries: Install the required dependencies:  pip install pandas numpy seaborn matplotlib jupyter
 
-
+---
 
 ### The dataset should include:  
 
 - Sales Metrics: Revenue, Profit, Quantity  
 - Dimensions: Product, Category, Region, Date
 
-
-### Setup Steps:  
-
-- Clone the repository:  git clone https://github.com/your-username/ai-powered-portfolio-project.git
-- Navigate to the project directory:  cd ai-powered-portfolio-project
-- Launch Jupyter Notebook:  jupyter notebook
-
+---
 
 ### 🤝 Contributing
 
 Love this project? Fork the repo, enhance it, and submit a pull request! 💡 Suggestions for new analyses, visualizations, or features are always welcome.  
 
+---
+
 ### 🌟 About Me
 
-Hi there! I’m Mohsin Raza, an aspiring Data Analyst passionate about uncovering insights from data using Python and visualization tools. Let’s stay in touch!  
-Update the LinkedIn URL with your actual profile link.
+Hi there! I'm **Mohsin Raza**. I’m an aspiring ***Data Analyst/Business Analyst/Data Engineer/BI Developer/SQL Developer***.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza/)
