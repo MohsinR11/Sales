@@ -1,0 +1,59 @@
+OrderID,Product,Category,Revenue,Profit,Date,Region,Quantity
+2001,Printer,Office Supplies,736,119.55,18-07-2023,North,6
+2002,Monitor,Electronics,1007,149.83,17-10-2024,North,8
+2003,Keyboard,Accessories,612,172.38,06-04-2022,West,1
+2004,Printer,Office Supplies,1949,451.81,30-04-2023,East,7
+2005,Tablet,Electronics,1640,215.88,19-08-2022,Central,9
+2006,Router,Networking,1317,253.67,19-01-2024,East,3
+2007,Keyboard,Accessories,881,158.76,25-06-2023,West,9
+2008,Keyboard,Accessories,1578,458.08,25-11-2024,West,2
+2009,Printer,Office Supplies,1204,314.4,09-06-2023,East,2
+2010,Smartphone,Electronics,1558,368.98,01-08-2023,West,2
+2011,Tablet,Electronics,1892,349.87,13-11-2023,East,6
+2012,Printer,Office Supplies,696,136.89,11-07-2023,South,5
+2013,Tablet,Electronics,70,20.39,09-10-2024,East,9
+2014,Tablet,Electronics,890,179.57,08-10-2023,East,4
+2015,Router,Networking,216,25.7,06-03-2024,West,7
+2016,Keyboard,Accessories,1347,167.12,17-11-2024,West,4
+2017,Monitor,Electronics,437,39.91,09-07-2022,North,1
+2018,Router,Networking,650,35.04,25-09-2023,North,5
+2019,Router,Networking,365,56.89,20-09-2023,South,2
+2020,Tablet,Electronics,63,9.37,30-08-2024,North,8
+2021,Mouse,Accessories,291,35.9,11-12-2023,East,8
+2022,Keyboard,Accessories,826,44.21,11-10-2023,West,7
+2023,Smartphone,Electronics,1419,141.49,14-11-2022,North,3
+2024,Router,Networking,614,139.89,15-11-2023,North,7
+2025,Monitor,Electronics,947,234.42,26-10-2023,South,1
+2026,Mouse,Accessories,1413,284.71,18-03-2023,South,3
+2027,Mouse,Accessories,141,39.7,18-07-2023,East,6
+2028,Smartphone,Electronics,1440,306.39,09-08-2024,West,7
+2029,Router,Networking,1005,280.13,30-11-2023,South,6
+2030,Monitor,Electronics,1528,401.11,23-04-2022,North,6
+2031,Keyboard,Accessories,1501,243.71,02-01-2022,West,6
+2032,Laptop,Electronics,558,41.21,04-10-2023,West,3
+2033,Monitor,Electronics,825,117.73,08-08-2022,North,6
+2034,Smartphone,Electronics,84,18.25,04-05-2024,South,8
+2035,Mouse,Accessories,255,55.2,20-01-2023,North,2
+2036,Keyboard,Accessories,1154,228.29,12-12-2024,West,5
+2037,Monitor,Electronics,1635,194.04,31-12-2023,Central,1
+2038,Laptop,Electronics,1945,370.15,04-09-2022,Central,1
+2039,Laptop,Electronics,1461,212.91,15-04-2024,East,5
+2040,Tablet,Electronics,1075,314.9,22-07-2022,North,3
+2041,Tablet,Electronics,1071,280.85,03-05-2022,North,4
+2042,Printer,Office Supplies,1463,337.12,05-02-2023,East,1
+2043,Smartphone,Electronics,615,67.03,06-02-2024,East,1
+2044,Router,Networking,1179,134.43,21-10-2022,East,1
+2045,Monitor,Electronics,1845,110.9,07-10-2022,West,5
+2046,Monitor,Electronics,1895,431.43,02-06-2024,North,6
+2047,Router,Networking,1550,120.47,17-07-2022,West,3
+2048,Printer,Office Supplies,752,120.2,08-09-2024,East,9
+2049,Mouse,Accessories,451,45.29,22-01-2024,North,5
+2050,Mouse,Accessories,779,213.4,24-05-2022,West,8
+2051,Monitor,Electronics,1895,431.43,02-06-2024,North,6
+2052,Router,Networking,1550,120.47,17-07-2022,West,8
+2053,Printer,Office Supplies,752,120.2,08-09-2024,East,8
+2054,Mouse,Accessories,451,45.29,22-01-2024,North,5
+2055,Router,Networking,779,213.4,24-05-2022,West,9
+2056,Printer,Office Supplies,1204,314.4,09-06-2023,East,3
+2057,Router,Networking,779,213.4,24-05-2022,West,4
+2058,Printer,Office Supplies,1204,314.4,09-06-2023,East,4
